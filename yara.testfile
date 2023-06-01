@@ -1,0 +1,7 @@
+YYaraTest
+powershell.x64.dll
+Failed to get default AppDomain w/hr 0x%08lx
+ICLRMetaHost::GetRuntime (v4.0.30319) failed w/hr 0x%08lx
+CustomPSHostUserInterface
+RuntimeClrHost::GetCurrentAppDomainId failed w/hr 0x%08lx
+z:\\devcenter\\aggressor\\external\\PowerShellRunner\\obj\\Release\\PowerShellRunner.pdb
